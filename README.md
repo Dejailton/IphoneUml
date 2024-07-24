@@ -3,7 +3,7 @@ Projeto dio, modelando o Iphone com UML.
 
 ## Projeto
 
-Foi disponibilizado o projeto Iphone, onde realizei a criação da aplicação utilizando a linguagem Java, foi utilizado a IDE Eclipse.
+Foi disponibilizado o projeto Iphone, onde realizei a criação da aplicação utilizando a linguagem Java, foi utilizado a IDE Eclipse. <br>
 Onde ilustrei de forma genérica um Iphone com suas respectivas funções propostas pelo desafio da dio.
 
 ## Diagrama UML de um Iphone
